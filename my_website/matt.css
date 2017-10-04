@@ -1,26 +1,45 @@
 
-<!DOCTYPE html>
-<html>
-<body>
+body {
+    background-color:#21857A;
 
-<h1 style="background-color::#21857A"></h1>
+}
 
-<p style="background-color:#21857A;">
+  p {
+    border-style: dotted;
+    border-width: 10px;
+}
+
+a {
+   
+    color: darkblue;
+  background-color: #4CAF50;
+    border: solid ;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: overline;
+    display: inline-block;
+    font-size: 16px;
+}
+    
 
 
+table, th, td {
+   border: 1px solid red;
+   color: hotpink ;
+}
+p , a href  {
+    text-align: center;
+    border: 3px solid blue;
 
 
+}
 
+h1 {
+        color: darkred ;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
+img {
+    display: block;
+    margin: auto;
+    width: auto;
+}
